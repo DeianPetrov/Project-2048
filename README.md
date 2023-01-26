@@ -15,3 +15,7 @@ When writing 2. a dimention will be required in order for the leaderboard for th
 When writing 3. you will exit the console.
  
 The game ends when either you achieve 2048 or you dont have any movable positions left.
+************
+possible improvements:
+* putting the menu in a function for the purpose of easier calling 
+* connect the menu and playgame, not just exit the game
