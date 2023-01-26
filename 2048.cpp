@@ -7,7 +7,7 @@
 *
 * @author Deyan Petrov
 * @idnumber 0MI0600169
-* @compiler VC
+* @compiler Visual Studio
 *
 * <cpp file containing the full project>
 *
